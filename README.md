@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- C'est la Mule, ça chill !
+- 📚Elève IMT-MINES-ALES spécialité Réseaux et Systèmes
+- 🍓Je bosse sur Raspberry principalement.
+
+Et puis voila ! On est la !
+
 <!--
 **LukuLaMule/LukuLaMule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
