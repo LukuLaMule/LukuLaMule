@@ -2,7 +2,6 @@
 
 - C'est la Mule, ça chill !
 - 📚Elève IMT-MINES-ALES spécialité Réseaux et Systèmes
-- 🍓Je bosse sur Raspberry principalement.
 
 Et puis voila ! On est la !
 
