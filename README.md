@@ -8,7 +8,9 @@ Et puis voila ! On est la !
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukuLaMule&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=LukuLaMule&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukuLaMule&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
