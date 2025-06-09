@@ -6,8 +6,6 @@
 
 Et puis voila ! On est la !
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/59877985/activity-summary/e72803ceada8c947c54719730a546cc158762fed'></iframe>
-
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukuLaMule&show_icons=true&theme=radical)
 
